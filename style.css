@@ -1,5 +1,5 @@
 body {
- background-image:url("https://cdn.glitch.global/f28ad17e-559e-4e19-9ce4-c35cb6d41ff2/back.png?v=1708239346685"),url("https://cdn.glitch.global/f28ad17e-559e-4e19-9ce4-c35cb6d41ff2/back2.png?v=1708249240573");
+ background-image:url("/pic/back.png"),url("/pic/back2.png");
  background-color: #cccccc;
  background-repeat: no-repeat, repeat;
  background-size: 100% auto;
